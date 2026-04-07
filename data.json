@@ -1,0 +1,157 @@
+{
+  "personal": {
+    "name": "Raushan Kumar Yadav",
+    "title": "Presales Engineer | Network Engineer | ELV & Security Systems Specialist",
+    "experience_years": "6+ Years",
+    "location": "Oman / Qatar",
+    "email": "dear.raushan143@gmail.com",
+    "phone": "+96892348770 | +9779842824715",
+    "about": "Results-driven Network and ELV Engineer with over 6 years of experience in designing, implementing, and managing enterprise network and security systems. Specialized in ANPR, CCTV, access control, and multi-site infrastructure projects for government and enterprise clients. Proven ability to lead projects, optimize network performance, and deliver secure, scalable solutions."
+  },
+
+  "services": [
+    {
+      "title": "Enterprise Network Solutions",
+      "description": "Design and implementation of LAN/WAN, routing, switching, VPN, firewall, and multi-site network infrastructure."
+    },
+    {
+      "title": "CCTV & Security Systems",
+      "description": "End-to-end deployment and optimization of surveillance systems including IP cameras, NVRs, and monitoring platforms."
+    },
+    {
+      "title": "Access Control & ELV Systems",
+      "description": "Design and deployment of enterprise access control systems, biometrics, and integrated ELV solutions."
+    },
+    {
+      "title": "Presales & Solution Design",
+      "description": "BOQ preparation, solution architecture, technical proposals, and client consultation for IT and security systems."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Shell Oman Enterprise Access Control System",
+      "client": "Shell Oman Marketing",
+      "description": "Led design and deployment of enterprise access control system using HikCentral platform. Managed system architecture, device integration, VLAN configuration, structured cabling, testing, and full project handover.",
+      "impact": "Delivered secure and scalable access control system with full compliance to HSE and enterprise standards.",
+      "technologies": ["HikCentral", "Access Control", "Networking", "VLAN", "PoE"],
+      "year": "2025"
+    },
+    {
+      "name": "Hotel IT Infrastructure Deployment",
+      "client": "Wyndham Garden Salalah",
+      "description": "Designed and implemented full hotel IT infrastructure including Aruba Wi-Fi, SonicWall firewall, PABX system, and structured cabling.",
+      "impact": "Improved network performance, security, and user experience for hotel operations and guests.",
+      "technologies": ["Aruba", "SonicWall", "PABX", "WiFi"],
+      "year": "2024"
+    },
+    {
+      "name": "MOI Qatar Smart Traffic System (POC)",
+      "client": "Ministry of Interior Qatar",
+      "description": "Developed and implemented smart traffic solution including ANPR, seat-belt detection, and violation monitoring systems.",
+      "impact": "Enhanced traffic monitoring and automated violation detection.",
+      "technologies": ["ANPR", "Dahua", "AI Traffic Systems"],
+      "year": "2023"
+    },
+    {
+      "name": "Lusail City ANPR & Radar Integration",
+      "client": "Lusail Real Estate",
+      "description": "Led ANPR system integration with radar and backend systems. Handled design, troubleshooting, and coordination with multiple stakeholders.",
+      "impact": "Improved enforcement accuracy and system reliability.",
+      "technologies": ["ANPR", "Radar", "Networking"],
+      "year": "2023"
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Project & Network Engineer",
+      "company": "TORV LLC, Oman",
+      "duration": "2024 - Present",
+      "highlights": [
+        "Leading enterprise network and ELV project deployments",
+        "Designing LAN/WAN, VPN, VLAN, firewall, and Wi-Fi infrastructure",
+        "Managing CCTV, access control, and ANPR system integration",
+        "Handling project planning, documentation, and client delivery"
+      ]
+    },
+    {
+      "role": "Network & ANPR Engineer",
+      "company": "Inter-Tech & Telco International, Qatar",
+      "duration": "2019 - 2024",
+      "highlights": [
+        "Designed and maintained enterprise network infrastructure",
+        "Configured routers, switches, ANPR systems, and surveillance networks",
+        "Troubleshot L2/L3 issues and optimized performance",
+        "Worked on government-level smart traffic projects"
+      ]
+    },
+    {
+      "role": "L2 Network Engineer",
+      "company": "Institute of Information Technology, Nepal",
+      "duration": "2018 - 2019",
+      "highlights": [
+        "Provided L2 support for enterprise networks",
+        "Configured VLAN, NAT, DHCP, and firewall rules",
+        "Handled network monitoring and troubleshooting"
+      ]
+    }
+  ],
+
+  "skills": {
+    "networking": [
+      "Routing: OSPF, BGP, EIGRP",
+      "Switching: VLAN, STP, LACP",
+      "VPN, NAT, ACL, SD-WAN",
+      "Network Security & Firewall"
+    ],
+    "systems": [
+      "Windows Server",
+      "Linux",
+      "VMware ESXi"
+    ],
+    "tools": [
+      "SolarWinds",
+      "AutoCAD",
+      "Visio"
+    ],
+    "technologies": [
+      "CCTV",
+      "ANPR",
+      "Access Control",
+      "HikCentral"
+    ],
+    "programming": [
+      "JavaScript",
+      "Python (Network Automation)",
+      "C++"
+    ]
+  },
+
+  "certifications": [
+    "CCNP Enterprise",
+    "Alcatel Certified Field Engineer (Data & Voice)",
+    "Qatar Engineering License",
+    "Panduit Structured Cabling",
+    "Nokia Optical Networking",
+    "Primavera P6 Project Management"
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor in Electronics and Communication Engineering",
+      "institution": "Tribhuvan University, Nepal",
+      "year": "2018"
+    }
+  ],
+
+  "languages": [
+    "English (Professional)",
+    "Hindi (Professional)"
+  ],
+
+  "social": {
+    "linkedin": "",
+    "github": ""
+  }
+}
